@@ -27,13 +27,13 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-The Customized Furniture Project is a site for selling furniture that is completely customized to customers..
+Projeto Treine-me is a website for practitioners of physical activities.
 
 - [Visit the project online](https:)
 
 ## 🔖 Layout
 
-You can preview the project layout through [FROM THIS LINK](https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Projeto-01?t=rcPTcWeVd5XPx0Fs-0).You must have an account at [Figma](https://figma.com) to access it.
+You can preview the project layout through [FROM THIS LINK](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0-1&t=9T3kBMenlNofwpGo-0).You must have an account at [Figma](https://figma.com) to access it.
 
 ## :memo: License
 
